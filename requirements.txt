@@ -77,7 +77,7 @@ tinycss==0.4
 toml==0.10.1
 twilio==6.40.0
 unattended-upgrades==0.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.17
 webencodings==0.5.1
 Werkzeug==1.0.1
