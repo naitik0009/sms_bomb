@@ -42,7 +42,7 @@ numpy==1.17.4
 paho-mqtt==1.5.0
 pep517==0.6.0
 pexpect==4.6.0
-Pillow==7.1.2
+Pillow==9.3.0
 PyAudio==0.2.11
 pycairo==1.16.2
 pycups==1.9.73
